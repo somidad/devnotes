@@ -6,6 +6,10 @@
 - [GraphQL on Next.js App Router](./API/GraphQL%20on%20Next.js%20App%20Router.md)
 - [tRPC on Next.js App Router](./API/tRPC%20on%20Next.js%20App%20Router.md)
 
+## Database
+
+- [ArangoDB](./Database/ArangoDB/README.md)
+
 ## Node.js
 
 - [Build and run npm executables](./Node.js/Build%20and%20run%20npm%20executables.md)
