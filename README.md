@@ -10,10 +10,20 @@
 
 - [ArangoDB](./Database/ArangoDB/README.md)
 
-## Node.js
+## JavaScript
 
-- [Build and run npm executables](./Node.js/Build%20and%20run%20npm%20executables.md)
+### Bundler
 
-## React UI
+- [TypeScript Paths in Vite, Vitest](./JavaScript/Bundler/TypeScript%20Paths%20in%20Vite,%20Vitest.md)
 
-- [WA for shadcn-ui Navigation Menu Positioning Bug](./React/WA%20for%20shadcn-ui%20Navigation%20Menu%20Positioning%20Bug.md)
+### DOM Handling
+
+- [ChildNode Type in Cheerio](./ChildNode%20Type%20in%20Cheerio.md)
+
+### Node.js
+
+- [Build and run npm executables](./JavaScript/Node.js/Build%20and%20run%20npm%20executables.md)
+
+### React UI
+
+- [WA for shadcn-ui Navigation Menu Positioning Bug](./JavaScript/React/WA%20for%20shadcn-ui%20Navigation%20Menu%20Positioning%20Bug.md)
