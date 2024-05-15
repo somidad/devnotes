@@ -18,7 +18,7 @@
 
 ### DOM Handling
 
-- [ChildNode Type in Cheerio](./ChildNode%20Type%20in%20Cheerio.md)
+- [ChildNode Type in Cheerio](./JavaScript/DOM%20Handling/ChildNode%20Type%20in%20Cheerio.md)
 
 ### Node.js
 
