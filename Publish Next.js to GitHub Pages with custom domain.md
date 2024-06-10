@@ -9,7 +9,7 @@ This allows `npm run build` to generate GitHub Pages compatible folder and file 
  /** @type {import('next').NextConfig} */
  const nextConfig = {
 +   output: 'export',
-+   distDir: env.NODE_ENV === 'production' ? 'docs' : '.next',
++   distDir: env.NODE_ENV === 'production' ? 'docs' : undefined,
  };
 
  export default nextConfig;
