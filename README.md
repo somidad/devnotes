@@ -42,6 +42,12 @@
 
 - [FileSaver.js - client-side download helper](./FileSaver.js%20-%20client-side%20download%20helper.md)
 
+## Web framework
+
+### Next.js
+
+- [Publish Next.js to GitHub Pages with custom domain](./Publish%20Next.js%20to%20GitHub%20Pages%20with%20custom%20domain.md)
+
 ## WYSIWYG editor
 
 ### CKEditor
